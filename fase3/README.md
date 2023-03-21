@@ -30,9 +30,9 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 
 * Notebooks extra donde se muestra: [Exploración de variables
 categóricas y análisis
-multivariable](./Exploracion_de_variables_categoricas_y_analisis_multivariable.ipynb), [Introducción a Machine
+multivariable](./variables_categoricas_analisis_multivariable.ipynb), [Introducción a Machine
 Learning: Clasificación
 No Supervisada y
-Supervisada](./Introducci%C3%B3n_a_Machine_Learning_Clasificaci%C3%B3n_No_Supervisada_y_Supervisada.ipynb) y  [Funcionamiento_del_API_a_traves_de_Postman](./Funcionamiento_del_API_a_trav%C3%A9s_de_Postman.ipynb), 
+Supervisada](./machine_learning.ipynb) y  [Funcionamiento_del_API_a_traves_de_Postman](./Funcionamiento_API_Postman.ipynb), 
 
 * [Video](https://youtu.be/gqgJ7dYVZjE)
