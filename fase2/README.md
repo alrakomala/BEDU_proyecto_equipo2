@@ -28,4 +28,4 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 
 * Notebook extra con extracción de datos a través de una API: [apis.ipynb](./apis.ipynb)
 
-* [Video](https://youtu.be/gqgJ7dYVZjE)
+* [Video](https://youtu.be/gqgJ7dYVZjEE)
