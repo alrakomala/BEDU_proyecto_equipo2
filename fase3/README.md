@@ -20,7 +20,7 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
 
 ### Contenido:
 
-* Notebook con el desarrollo del proyecto:  [Proyecto_Final_F3_Equipo2.ipynb](./Proyecto_Final_F3_Equipo2.ipynb)
+* Notebook con el desarrollo del proyecto:  [ProyectoBEDU_Fase3_Equipo2.ipynb](./ProyectoBEDU_Fase3_Equipo2.ipynb)
 
 * Bases de datos utilizadas: 
 
