@@ -44,4 +44,4 @@ Analizar e investigar la potencial relación entre la pandemia del Covid-19 y un
     
     -[Funcionamiento_del_API_a_traves_de_Postman](./Funcionamiento_API_Postman.ipynb) 
 
-* [Video](https://youtu.be/gqgJ7dYVZjE)
+* [Video](https://drive.google.com/file/d/1v3QQDD8YV-w4857FL3S0QZSjc0FWKaht/view)
